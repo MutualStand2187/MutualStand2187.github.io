@@ -1,10 +1,11 @@
 ---
 name: Game Idea
 about: Suggest a new game to add to the project
-title: "GR - "
+title: 'GR - '
 labels: enhancement
-assignees: rilwag2612
+assignees: ''
 type: Feature
+
 ---
 
 ## 🎮 Game Name

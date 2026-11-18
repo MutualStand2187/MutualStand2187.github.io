@@ -1,10 +1,11 @@
 ---
 name: Bug Report
 about: Report something that is broken or not working correctly
-title: "Bug Report - "
+title: 'Bug Report - '
 labels: bug
-assignees: rilwag2612
+assignees: ''
 type: Bug
+
 ---
 
 ## 🐛 Describe the bug
